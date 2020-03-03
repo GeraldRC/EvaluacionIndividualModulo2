@@ -1,2 +1,2 @@
 # EvaluacionIndividualModulo2
-Evaluacion correspondiente al moddulo 
+Evaluacion  Individual correspindiente al modulo 2 .
